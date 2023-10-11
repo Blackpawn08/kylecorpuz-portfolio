@@ -110,7 +110,7 @@ img{
     object-fit: cover;
 }
 
-/*===== Mediun Devices=====*/
+/*===== Large Devices=====*/
 @media screen and (max-width: 1024px){
     .container{
         width: var(--container-width-md)

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kylecorpuz-portfolio/static/css/main.e2df816c.css",
+    "main.js": "/kylecorpuz-portfolio/static/js/main.ea046c4a.js",
+    "static/media/Me.png": "/kylecorpuz-portfolio/static/media/Me.cb2de69704ea3200d872.png",
+    "static/media/KyleCorpuzCv.pdf": "/kylecorpuz-portfolio/static/media/KyleCorpuzCv.fd40a46dfb09ca534ad1.pdf",
+    "static/media/aboutme.png": "/kylecorpuz-portfolio/static/media/aboutme.c9c6d1c0552f326459b2.png",
+    "static/media/aboutme2.png": "/kylecorpuz-portfolio/static/media/aboutme2.1babc8dbfa2a2d23955e.png",
+    "static/media/kc.png": "/kylecorpuz-portfolio/static/media/kc.17feb73b0d92104dac91.png",
+    "index.html": "/kylecorpuz-portfolio/index.html",
+    "main.e2df816c.css.map": "/kylecorpuz-portfolio/static/css/main.e2df816c.css.map",
+    "main.ea046c4a.js.map": "/kylecorpuz-portfolio/static/js/main.ea046c4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2df816c.css",
+    "static/js/main.ea046c4a.js"
+  ]
+}

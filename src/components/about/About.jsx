@@ -1,7 +1,6 @@
 import React from "react";
 import "./about.css";
 import aboutme from "../../assets/aboutme.png";
-import aboutme2 from "../../assets/aboutme2.png";
 import { GiGraduateCap } from "react-icons/gi";
 import {SiAdobephotoshop} from "react-icons/si";
 import {TbBusinessplan} from "react-icons/tb";
